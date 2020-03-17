@@ -8,7 +8,7 @@ This repository contains a single-file implementation of YouTube video downloade
 
 ## Installation
 
-You can fetch one of the executable binaries (preferably latest one) from Releases. Unfortunately the binaries only support Windows x86-64 platform this time. However you can help me to make and upload more binaries for different platforms.
+You can fetch one of the executable binaries (preferably latest one) from Releases. The binaries only support Windows (32 and 64 bit) and Linux (32 and 64 bit) this time.
 
 ### From Source
 
